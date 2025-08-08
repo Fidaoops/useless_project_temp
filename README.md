@@ -1,102 +1,64 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+ USELESS NOTHINGs
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:TINKING
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: FIDA - KAHM Unity womens college manjeri 
+- Member 2: ZUHRA - KAHM Unity womens college manjeri 
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+it gives reviews about one's project
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+what's the use of a useless project
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+giving a useless review for a useless project
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-HTML, CSS, JavaScript, TypeScript
+-React or Next.js
+- 
+-GitHub,loveable,AI
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+none, since it's a website
 
-### Implementation
-For Software:
-# Installation
-[commands]
+# Screenshots
+<img width="940" height="1000" alt="image" src="https://github.com/user-attachments/assets/fb445456-edca-4967-a9d4-b98b87a57d0a" />
+starting page of the website with the purpose of website 
 
-# Run
-[commands]
+![Screenshot2]
+<img width="1023" height="1272" alt="image" src="https://github.com/user-attachments/assets/7ef67710-ef3b-4617-a7bc-f0c7b94070a3" />
+user giving her useless projects name
 
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot3]
+<img width="976" height="1280" alt="image" src="https://github.com/user-attachments/assets/84724fc8-9e5a-4700-b7a3-d69b9f2305a4" />
+the end result shown ,with the uselessness obviously recognisable
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1AeBo9YJ3bd7schHtba7rAo_KsXxDpPBo/view
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Fida - For keep going till end 
+chat gpt - for guiding me with the codes needed
+<img width="40" height="40" alt="W2MDyeo0zkf" src="https://github.com/user-attachments/assets/c03fcc06-a8d5-4648-99ec-30873da05965" />
 
----
+
+
+
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
 
 
